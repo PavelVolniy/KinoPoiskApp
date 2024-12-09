@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shows_film_buttons">
+        <item>Все</item>
+        <item>Фильмы</item>
+        <item>Сериалы</item>
+    </string-array>
+    <string-array name="sorting_buttons">
+        <item>Дата</item>
+        <item>Популярное</item>
+        <item>Рейтинг</item>
+    </string-array>
+    <string-array name="start_page_data">
+        <item>Узнайте больше о премьерах</item>
+        <item>Создавайте коллекции</item>
+        <item>Делитесь с друзьями</item>
+    </string-array>
+    <string name="ApiKey">a6144393-0fb9-4e37-b757-6ab8fdd2197d</string>
+    <string name="BASE_URL">https://kinopoiskapiunofficial.tech</string>
+    <string name="_401">Пустой или неправильный токен</string>
+    <string name="_402">Превышен лимит запросов(или дневной, или общий)</string>
+    <string name="_429">Слишком много запросов. Общий лимит - 20 запросов в секунду</string>
+    <string name="add_to_collection_title_dialog">Добавить вколлекцию</string>
+    <string name="all_clickable_text">Все</string>
+    <string name="all_film_type" translatable="false">Все</string>
+    <string name="all_show_type">все</string>
+    <string name="app_name">KinopoiskCinemaApp</string>
+    <string name="catastrophe_theme_collection_type">Catastrophe theme</string>
+    <string name="closes_releases_collection_type">Closes releases</string>
+    <string name="collection_dialog_label">Придумайте название вашей коллекции</string>
+    <string name="collection_title_profile_page">Коллекции</string>
+    <string name="collections_name_group">collections</string>
+    <string name="comics_theme_collection_type">Comics theme</string>
+    <string name="connection_default_error_message">Ошибка с соединением</string>
+    <string name="country_settings_page">Страна</string>
+    <string name="create_new_collection_button">Создать новую коллекцию</string>
+    <string name="default_error_msg">неизвестная ошибка</string>
+    <string name="enter_name_country_placeholder">Введите название страну</string>
+    <string name="enter_name_genre_palceholder">Введите название жанр</string>
+    <string name="error_title">Ошибка</string>
+    <string name="family_collection_type">Family</string>
+    <string name="filmography_title">Фильмография</string>
+    <string name="films_count_text_actor_page">%1$s фильмы</string>
+    <string name="films_film_type" translatable="false">Фильмы</string>
+    <string name="films_name_group">Фильмы</string>
+    <string name="first_text_start_page">Узнайте больше о премьерах</string>
+    <string name="gallery_name_group_text">Галерея</string>
+    <string name="genre_settings_page">Жанр</string>
+    <string name="kids_animation_theme_collection_type">Kids animation theme</string>
+    <string name="like_default_name_collection">Нравится</string>
+    <string name="looked_title_profil_page">Промотренн</string>
+    <string name="love_theme_collection_type">Love theme</string>
+    <string name="max_value_rating">10</string>
+    <string name="min_value_rating">1</string>
+    <string name="mini_series_film_type" translatable="false">Мини сериаллы</string>
+    <string name="no_data_text_search_page">К сожалению, по вашему запросу ничего не было найдено.</string>
+    <string name="not_looked_setting_page">Не просмотренно</string>
+    <string name="occurred_error_message">произошла непредвиденная ошибка</string>
+    <string name="oskar_winners_2021_collection_type">Oskar winners 2021</string>
+    <string name="period_page_title">Период</string>
+    <string name="placeholder_search_text">Фильмы, актеры</string>
+    <string name="popular_series_collection_type">Популярные сериаллы</string>
+    <string name="premieres_film_type" translatable="false">Примьеры</string>
+    <string name="premieres_name_group">premieres</string>
+    <string name="rating_title_row">Рейтинг</string>
+    <string name="season_and_series_film_page">Сезоны и серии</string>
+    <string name="season_botton_row">Сезон</string>
+    <string name="season_series_title_list">%1$s сезонов, %2$s серий</string>
+    <string name="select_period_button">" Select"</string>
+    <string name="series_episode_item">серии</string>
+    <string name="show_all_button">Показать всё</string>
+    <string name="similar_films_name_group">похожие фильмы</string>
+    <string name="skip_clickable_text">Пропустить</string>
+    <string name="success_name_button">Создать</string>
+    <string name="test_film_type">test</string>
+    <string name="text_field_error_msg">Пустая строка</string>
+    <string name="the_film_was_shot_name_group_text">В фильме снимались</string>
+    <string name="the_most_name_group">The most</string>
+    <string name="title_shows_films_settings">Показывать</string>
+    <string name="title_sorting_settings">Сортировать</string>
+    <string name="to_list_clickable_text">К списку</string>
+    <string name="top_250_movies_collection_type" translatable="false">Top 250 кино</string>
+    <string name="top_250_tv_shows_collection_type" translatable="false">Top 250 тв шоу</string>
+    <string name="top_popular_all_collection_type" translatable="false">Популярное</string>
+    <string name="top_popular_movies_collection_type" translatable="false">Top популярных кино</string>
+    <string name="tv_series_film_type" translatable="false">TV сериаллы</string>
+    <string name="tv_shows_film_type" translatable="false">TV шоу</string>
+    <string name="vampire_theme_collection_type">Vampire theme</string>
+    <string name="viewed_default_name_collection">Просмотренно</string>
+    <string name="want_to_see_collection_name">Хочу посмотреть</string>
+    <string name="was_interesting_title_profil_page">Было интересно</string>
+    <string name="year_settings_page">Год</string>
+    <string name="zombie_theme_collection_type">Zombie theme</string>
+</resources>

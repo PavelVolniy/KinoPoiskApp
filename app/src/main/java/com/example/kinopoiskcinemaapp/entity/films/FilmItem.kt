@@ -1,0 +1,31 @@
+package com.example.kinopoiskcinemaapp.entity.films
+
+data class FilmItem(
+    val kinopoiskId: Int,
+    val countries: List<Country>,
+    val genres: List<Genre>,
+    val imdbId: String,
+    val nameEn: String,
+    val nameOriginal: String,
+    val nameRu: String,
+    val posterUrl: String,
+    val posterUrlPreview: String,
+    val ratingImdb: Double,
+    val ratingKinopoisk: Double,
+    val type: String,
+    val year: Int,
+    val ratingImbd: Double,
+    val description: String,
+    val imageUrl: String,
+    val publishedAt: String,
+    val title: String,
+    val url: String,
+    val duration: Int,
+    val premiereRu: String,
+    val someData: String,
+    val filmId: Int,
+    val general: Boolean,
+    val professionKey: String,
+    val rating: String,
+    val relationType: String
+)

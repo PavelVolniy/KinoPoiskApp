@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="shows_film_buttons">
+        <item>Все</item>
+        <item>Фильмы</item>
+        <item>Сериалы</item>
+    </string-array>
+    <string-array name="sorting_buttons">
+        <item>Дата</item>
+        <item>Популярное</item>
+        <item>Рейтинг</item>
+    </string-array>
+    <string-array name="start_page_data">
+        <item>Узнайте больше о премьерах</item>
+        <item>Создавайте коллекции</item>
+        <item>Делитесь с друзьями</item>
+    </string-array>
+    <string name="ApiKey">a6144393-0fb9-4e37-b757-6ab8fdd2197d</string>
+    <string name="BASE_URL">https://kinopoiskapiunofficial.tech</string>
+    <string name="_401">Пустой или неправильный токен</string>
+    <string name="_402">Превышен лимит запросов(или дневной, или общий)</string>
+    <string name="_429">Слишком много запросов. Общий лимит - 20 запросов в секунду</string>
+    <string name="add_to_collection_title_dialog">Добавить вколлекцию</string>
+    <string name="all_clickable_text">Все</string>
+    <string name="all_film_type" translatable="false">Все</string>
+    <string name="all_show_type">все</string>
+    <string name="app_name">KinopoiskCinemaApp</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="catastrophe_theme_collection_type">Catastrophe theme</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string name="closes_releases_collection_type">Closes releases</string>
+    <string name="collection_dialog_label">Придумайте название вашей коллекции</string>
+    <string name="collection_title_profile_page">Коллекции</string>
+    <string name="collections_name_group">collections</string>
+    <string name="comics_theme_collection_type">Comics theme</string>
+    <string name="connection_default_error_message">Ошибка с соединением</string>
+    <string name="country_settings_page">Страна</string>
+    <string name="create_new_collection_button">Создать новую коллекцию</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string name="default_error_msg">неизвестная ошибка</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string name="enter_name_country_placeholder">Введите название страну</string>
+    <string name="enter_name_genre_palceholder">Введите название жанр</string>
+    <string name="error_title">Ошибка</string>
+    <string name="family_collection_type">Family</string>
+    <string name="filmography_title">Фильмография</string>
+    <string name="films_count_text_actor_page">%1$s фильмы</string>
+    <string name="films_film_type" translatable="false">Фильмы</string>
+    <string name="films_name_group">Фильмы</string>
+    <string name="first_text_start_page">Узнайте больше о премьерах</string>
+    <string name="gallery_name_group_text">Галерея</string>
+    <string name="genre_settings_page">Жанр</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
+    <string name="kids_animation_theme_collection_type">Kids animation theme</string>
+    <string name="like_default_name_collection">Нравится</string>
+    <string name="looked_title_profil_page">Промотренн</string>
+    <string name="love_theme_collection_type">Love theme</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Свернуть нижний экран"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Закрыть нижний экран"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Маркер перемещения"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Развернуть нижний экран"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Нижний экран"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Введенная дата"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Введенная дата: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Дата не соответствует допустимому шаблону: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Недопустимая дата: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Дата не входит в допустимый диапазон: %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Дата"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Нет"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Выберите дату"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Выбранная дата"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Текущий выбор: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Переход к %1$s году"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Нет"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Прокрутите до более ранних лет"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Прокрутите до более поздних лет"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Перейти в режим выбора даты"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Проведите по экрану, чтобы выбрать год, или нажмите, чтобы вернуться к выбору дня."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Перейти в режим ввода текста"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Перейти к следующему месяцу"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Перейти к предыдущему месяцу"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Перейти к выбору года"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Выберите дату"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Сегодня"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Отображаемый выбор года"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Указан недопустимый диапазон дат."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Введите даты"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"День в диапазоне дат"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Конечная дата"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Прокрутите до следующего месяца"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Прокрутите до предыдущего месяца"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Начальная дата"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Выберите даты"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Диалоговое окно"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Свернуто"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Развернуто"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Строка поиска"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Закрыть"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Подсказки показаны ниже"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Часы"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ч."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Выбрать час"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d ч."</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"часы"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Минуты"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Выберите минуты"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d мин."</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"минуты"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Выбрать AM (до полудня) или PM (после полудня)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Показать подсказку"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Подсказка"</string>
+    <string name="max_value_rating">10</string>
+    <string name="min_value_rating">1</string>
+    <string name="mini_series_film_type" translatable="false">Мини сериаллы</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string name="no_data_text_search_page">К сожалению, по вашему запросу ничего не было найдено.</string>
+    <string name="not_looked_setting_page">Не просмотренно</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string name="occurred_error_message">произошла непредвиденная ошибка</string>
+    <string msgid="875452955155264703" name="off">"Отключено"</string>
+    <string msgid="8655164131929253426" name="on">"Включено"</string>
+    <string name="oskar_winners_2021_collection_type">Oskar winners 2021</string>
+    <string name="period_page_title">Период</string>
+    <string name="placeholder_search_text">Фильмы, актеры</string>
+    <string name="popular_series_collection_type">Популярные сериаллы</string>
+    <string name="premieres_film_type" translatable="false">Примьеры</string>
+    <string name="premieres_name_group">premieres</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string name="rating_title_row">Рейтинг</string>
+    <string name="season_and_series_film_page">Сезоны и серии</string>
+    <string name="season_botton_row">Сезон</string>
+    <string name="season_series_title_list">%1$s сезонов, %2$s серий</string>
+    <string name="select_period_button">" Select"</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string name="series_episode_item">серии</string>
+    <string name="show_all_button">Показать всё</string>
+    <string name="similar_films_name_group">похожие фильмы</string>
+    <string name="skip_clickable_text">Пропустить</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="success_name_button">Создать</string>
+    <string msgid="2561197295334830845" name="switch_role">"Переключатель"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="test_film_type">test</string>
+    <string name="text_field_error_msg">Пустая строка</string>
+    <string name="the_film_was_shot_name_group_text">В фильме снимались</string>
+    <string name="the_most_name_group">The most</string>
+    <string name="title_shows_films_settings">Показывать</string>
+    <string name="title_sorting_settings">Сортировать</string>
+    <string name="to_list_clickable_text">К списку</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Подсказка"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Показать подсказку"</string>
+    <string name="top_250_movies_collection_type" translatable="false">Top 250 кино</string>
+    <string name="top_250_tv_shows_collection_type" translatable="false">Top 250 тв шоу</string>
+    <string name="top_popular_all_collection_type" translatable="false">Популярное</string>
+    <string name="top_popular_movies_collection_type" translatable="false">Top популярных кино</string>
+    <string name="tv_series_film_type" translatable="false">TV сериаллы</string>
+    <string name="tv_shows_film_type" translatable="false">TV шоу</string>
+    <string name="vampire_theme_collection_type">Vampire theme</string>
+    <string name="viewed_default_name_collection">Просмотренно</string>
+    <string name="want_to_see_collection_name">Хочу посмотреть</string>
+    <string name="was_interesting_title_profil_page">Было интересно</string>
+    <string name="year_settings_page">Год</string>
+    <string name="zombie_theme_collection_type">Zombie theme</string>
+</resources>

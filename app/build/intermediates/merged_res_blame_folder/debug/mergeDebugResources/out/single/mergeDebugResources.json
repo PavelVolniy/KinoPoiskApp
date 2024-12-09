@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_icons.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/icons.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_frame_7282.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/frame_7282.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/xml_backup_rules.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_wfh_2.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/wfh_2.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_look.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/look.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_viewed.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/viewed.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_ic_image.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_icons3dot.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/icons3dot.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_wfh_4_1.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/wfh_4_1.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_user_icon.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/user_icon.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_icon_settings.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/icon_settings.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_icon.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/icon.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_frame_24.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/frame_24.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_frame_7373.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/frame_7373.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_ic_default_frame.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/ic_default_frame.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_not_viewed.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/not_viewed.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_wfh_8.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/wfh_8.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_frame_7299.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/frame_7299.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_ic_default_person.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/ic_default_person.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_heart.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/heart.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kinopoiskcinemaapp-debug-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kinopoiskcinemaapp-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
