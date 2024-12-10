@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">KinopoiskCinemaApp</string>
     <string name="BASE_URL">https://kinopoiskapiunofficial.tech</string>
+    <string name="ApiKey">a6144393-0fb9-4e37-b757-6ab8fdd2197d</string> <!--todo заменить api key-->
 
     <!--    films type-->
     <string name="films_film_type" translatable="false">Фильмы</string>
